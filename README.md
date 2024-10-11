@@ -1,2 +1,2 @@
-#Simple Calculator
+# Simple Calculator
 simple-calculator-kurtrdb.netlify.app
